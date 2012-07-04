@@ -1,4 +1,5 @@
-var statejson = {
+var  statejson = [
+{
     "state": "US",
     "total": 122196252,
     "candidates": {
@@ -2719,4 +2720,6 @@ var statejson = {
         },
         "electoral": 538
     }
-};
+}
+]
+console.log(statejson)
